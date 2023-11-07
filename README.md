@@ -8,43 +8,46 @@ Find various Machine learning models that you can use in your project.
 
 ## Model 1
 
-### Advantages
+#### Advantages
 - List the advantages
 
-### Disadvantages
+#### Disadvantages
 - List the disadvantages
 
-### Use Case
+#### Use Case
 - When the model is used
 
-### Dataset
+#### Dataset
 - Dataset description
 
 ## Model 2
 
-### Advantages
+#### Advantages
 - List the advantages
 
-### Disadvantages
+#### Disadvantages
 - List the disadvantages
 
-### Use Case
+#### Use Case
 - When the model is used
 
-### Dataset
+#### Dataset
 - Dataset description
-.
-.
-.
-.
 
-## Model n
 
-### Advantages
+## Model 3
+
+#### Advantages
 - List the advantages
 
-### Disadvantages
+#### Disadvantages
 - List the disadvantages
+
+#### Use Case
+- When the model is used
+
+#### Dataset
+- Dataset description
 
 ### Use Case
 - When the model is used
