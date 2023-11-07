@@ -49,8 +49,3 @@ Find various Machine learning models that you can use in your project.
 #### Dataset
 - Dataset description
 
-### Use Case
-- When the model is used
-
-### Dataset
-- Dataset description
