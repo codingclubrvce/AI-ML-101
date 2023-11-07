@@ -4,7 +4,7 @@ Find various Machine learning models that you can use in your project.
 # Table of Contents
 - [Model 1](#model-1)
 - [Model 2](#model-2)
-- [Model n](#model-n)
+- [Model 3](#model-3)
 
 ## Model 1
 
