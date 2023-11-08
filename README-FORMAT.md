@@ -20,7 +20,6 @@ List the disadvantages and limitations of this model.
 ## Dataset Description
 
 Briefly describe the dataset used for training and testing the model.
-
 Be sure to share the links to the dataset source as well.
 
 ## Usage
