@@ -6,6 +6,10 @@ Provide a brief description of the model, its purpose, and its current use case.
 
 Provide links to blogs or Youtube links which may help viewers understand the working of the model
 
+## Packages
+
+List out all the libraries used in your project along with their versions
+
 ## Advantages
 
 List the advantages and strengths of this model.
@@ -23,8 +27,6 @@ Be sure to share the links to the dataset source as well.
 ## Usage
 
 Provide instructions on how to run the model and any necessary dependencies.
-
-It is important to mention on how to run the code.
 
 ## Contributing
 
