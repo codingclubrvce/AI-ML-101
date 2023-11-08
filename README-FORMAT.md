@@ -3,7 +3,6 @@
 ## Description
 
 Provide a brief description of the model, its purpose, and its current use case.
-
 Provide links to blogs or Youtube links which may help viewers understand the working of the model
 
 ## Packages
