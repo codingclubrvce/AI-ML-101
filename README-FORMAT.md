@@ -2,12 +2,16 @@
 
 ## Description
 
-Provide a brief description of the model, its purpose, and its current use case.
-Provide links to blogs or Youtube links which may help viewers understand the working of the model
+Provide a brief description of the project, its purpose and its use cases.
 
 ## Packages
 
 List out all the libraries used in your project along with their versions
+
+## About the model used
+
+Explain about working of the model and about its usage in the project.
+Provide link to blogs or Youtube links which may help viewers understand the working of the model
 
 ## Advantages
 
