@@ -4,7 +4,7 @@ Welcome to the Google PEGASUS Text Summarization Project! This project leverages
 
 ## Packages:
 
-Find it in requirements.txt 
+Find it in [requirements.txt ](https://github.com/codingclubrvce/AI-ML-101/blob/85e80c42c2f9bd52c3af0a141aa0b77f66469e7c/Transformer%20Models/Chat%20Summarizer%20using%20Pegasus%20Model/requirements.txt)
 You can refer the code for simpler version
 
 ## About the model:
