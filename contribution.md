@@ -4,7 +4,9 @@ Welcome to [Coding Club](https://github.com/codingclubrvce)'s ML models reposito
 
 ## Table of Contents
  [How to contribute](#how-to-contribute)
+ 
  [Code of conduct](#code-of-conduct)
+ 
  [README format](#readme-format)
 
 ## How to contribute
