@@ -32,6 +32,6 @@ Provide instructions on how to run the model and any necessary dependencies.
 
 ## Contributing
 
-If you want to contribute to this model, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+If you want to contribute to this model, please follow the [Contributing Guidelines](contribution.md).
 
 
