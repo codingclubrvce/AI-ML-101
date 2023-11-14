@@ -1,10 +1,10 @@
 ## Overview:
 
-Welcome to the Google PEGASUS Text Summarization Project! This project leverages the power of the PEGASUS (Pre-training with Extracted Gap-sentences for Abstractive Summarization) model developed by Google. The goal of this project is to provide a robust and user-friendly chat summarization tool that can generate concise and coherent summaries from lengthy chat conversations.
+Welcome to the Google PEGASUS Text Summarization Project ✨🌟 ! This project leverages the power of the PEGASUS : (Pre-training with Extracted Gap-sentences for Abstractive Summarization) model developed by Google. The goal of this project is to provide a robust and user-friendly chat summarization tool that can generate concise and coherent summaries from lengthy chat conversations.
 
 ## Packages:
 
-Find it in [requirements.txt](https://github.com/codingclubrvce/AI-ML-101/blob/85e80c42c2f9bd52c3af0a141aa0b77f66469e7c/Transformer%20Models/Chat%20Summarizer%20using%20Pegasus%20Model/requirements.txt)
+Find it in [requirements.txt](https://github.com/codingclubrvce/AI-ML-101/blob/bcc19e41544c64b466ebedc4966633cdc8747c94/Transformer-Models/Chat-Summarizer/requirements.txt) (Do not worry about all the packages 😅 )
 You can refer the code for simpler version
 
 ## About the model:
