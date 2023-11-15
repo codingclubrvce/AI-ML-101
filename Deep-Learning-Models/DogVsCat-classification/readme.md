@@ -5,15 +5,18 @@ This project aims to classify images of dogs and cats using two different approa
 # Table of Contents:
 
 [Packages](#Packages)
-[About the model]
-[Dataset]
-[Usage]
+
+[About the model](#About-the-model)
+
+[Dataset](#Dataset)
+
+[Usage](#Usage)
 
 # Packages
 
 Find it in -- (All of the packages are not important. But tensorflow is the preferred library in this project)
 
-# About the model
+# About-the-model
 
 *Model 1* : CNN model with Convolution and MaxPooling layers. The normal CNN model is a simple convolutional neural network with a few convolutional layers followed by fully connected layers. This model serves as a baseline for comparison with the fine-tuned VGG-16 model.
 
