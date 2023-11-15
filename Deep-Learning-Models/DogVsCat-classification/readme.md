@@ -4,7 +4,7 @@ This project aims to classify images of dogs and cats using two different approa
 
 # Table of Contents:
 
-[Packages]
+[Packages](#Packages)
 [About the model]
 [Dataset]
 [Usage]
