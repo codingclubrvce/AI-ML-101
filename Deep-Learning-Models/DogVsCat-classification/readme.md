@@ -14,7 +14,7 @@ This project aims to classify images of dogs and cats using two different approa
 
 # Packages
 
-Find it in -- (All of the packages are not important. But tensorflow is the preferred library in this project)
+Find it [here](https://github.com/codingclubrvce/AI-ML-101/blob/6fd8c4c61eb1cf64f5f2c3f0ab709db89e6ebb4d/Deep-Learning-Models/DogVsCat-classification/requirements.txt) (All of the packages are not important. But tensorflow is the preferred library in this project)
 
 # About-the-model
 
