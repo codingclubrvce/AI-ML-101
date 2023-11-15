@@ -26,9 +26,13 @@ Check out more about [CNN models](https://datagen.tech/guides/computer-vision/cn
 
 Check out more about [VGG 16 model](https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918) and [transfer learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 
-# Dataset: Download the dataset [here](https://www.kaggle.com/competitions/dogs-vs-cats/data?select=train.zip). Extract the zip file and arrange the directory structure or the code to make it work.
+# Dataset: 
 
-# Usage: You can run the code locally. Data will be needed to download the VGG16 model and necessary libraries. The only additional that you need to do is to adjust directory structure of your dataset according to the code.
+Download the dataset [here](https://www.kaggle.com/competitions/dogs-vs-cats/data?select=train.zip). Extract the zip file and arrange the directory structure or the code to make it work.
+
+# Usage: 
+
+You can run the code locally. Data will be needed to download the VGG16 model and necessary libraries. The only additional that you need to do is to adjust directory structure of your dataset according to the code.
 
 You can find more help [here](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 
