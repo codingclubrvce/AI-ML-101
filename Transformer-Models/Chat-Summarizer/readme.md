@@ -6,10 +6,13 @@ Welcome to the Google PEGASUS Text Summarization Project ✨🌟 ! This project 
 
 ## Table of Contents📜
 
-[Packages](# Packages)
-[About the Model] (#About-the-model)
-[Dataset details] (#Dataset-details)
-[Usage] (#Usage)
+[Packages](##Packages)
+
+[About the Model](##About-the-model)
+
+[Dataset details](#Dataset-details)
+
+[Usage](#Usage)
 
 
 ## Packages📦
