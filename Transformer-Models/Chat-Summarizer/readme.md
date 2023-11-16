@@ -1,13 +1,23 @@
-## Overview:
+# Chat summarizer  📚🗣️
+
+## Overview🌐📝
 
 Welcome to the Google PEGASUS Text Summarization Project ✨🌟 ! This project leverages the power of the PEGASUS : (Pre-training with Extracted Gap-sentences for Abstractive Summarization) model developed by Google. The goal of this project is to provide a robust and user-friendly chat summarization tool that can generate concise and coherent summaries from lengthy chat conversations.
 
-## Packages:
+## Table of Contents📜
+
+[Packages](# Packages)
+[About the Model] (#About-the-model)
+[Dataset details] (#Dataset-details)
+[Usage] (##Usage)
+
+
+## Packages📦
 
 Find it in [requirements.txt](https://github.com/codingclubrvce/AI-ML-101/blob/bcc19e41544c64b466ebedc4966633cdc8747c94/Transformer-Models/Chat-Summarizer/requirements.txt) (Do not worry about all the packages 😅 )
 You can refer the code for simpler version
 
-## About the model:
+## About-the-model🤖
 
 Google PEGASUS is a state-of-the-art natural language processing model developed by Google Research. PEGASUS stands for Pre-training with Extracted Gap-sentences for Abstractive Summarization. It is designed for abstractive text summarization, a task that involves generating concise and coherent summaries of long pieces of text while preserving the key information.
 
@@ -44,13 +54,13 @@ Key features and concepts of the PEGASUS model include:
 
 3. Learn more about the [Pegasus model](https://blog.research.google/2020/06/pegasus-state-of-art-model-for.html)
 
-## Dataset details:
+## Dataset-details
 
 The dataset on which the pegasus is fine tuned upon is the Samsum dataset. The dataset contains conversations between two individuals and a summary of these conversations. This dataset provides a practical use case and one of the few datasets out there which are small enough so that the pegasus can be fine tuned on without crashing a colab notebook.
 
 Dataset link: https://huggingface.co/datasets/samsum
 
-## Usage:
+## Usage🚀
 
 It is recommended to run the code on a colab notebook with GPU as runtime accelerator. You will need to have a good GPU (RTX 3050 range) to be able to run it locally.
 
