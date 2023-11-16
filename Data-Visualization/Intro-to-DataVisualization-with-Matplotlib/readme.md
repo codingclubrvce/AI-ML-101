@@ -31,7 +31,7 @@ Get ready for an adventure where basic theory meets real-world implementation th
 
 This project relies primarily on the powerful duo of `matplotlib` and a touch of `seaborn` for creating stunning visualizations. Additionally, we leverage the flexibility of pandas for efficient dataset handling.
 
-# Dataset:
+## Dataset:
 No need to search far and wide! 🕵️‍♂️ The dataset is conveniently provided within the project folder, making it easy for you to dive right into the visualization process. 📁
 
 Find additional help [here](https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/)
