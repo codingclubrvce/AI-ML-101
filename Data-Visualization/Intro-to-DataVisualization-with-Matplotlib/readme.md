@@ -1,6 +1,6 @@
 # Data Visualization Project 📊📈
 
-# Overview 🚀
+## Overview 🚀
 Welcome to our exciting Data Visualization project! 🌟 In this journey, you'll dive into the captivating world of visualization through various types of plots, each telling a unique story:
 
 Line plot 📈
@@ -27,7 +27,7 @@ Regression plots and many more interesting graphs! 📉📊
 
 Get ready for an adventure where basic theory meets real-world implementation through intriguing case studies.
 
-# Packages:
+## Packages:
 
 This project relies primarily on the powerful duo of `matplotlib` and a touch of `seaborn` for creating stunning visualizations. Additionally, we leverage the flexibility of pandas for efficient dataset handling.
 
