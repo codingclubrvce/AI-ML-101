@@ -9,7 +9,7 @@ Welcome to the Google PEGASUS Text Summarization Project ✨🌟 ! This project 
 [Packages](# Packages)
 [About the Model] (#About-the-model)
 [Dataset details] (#Dataset-details)
-[Usage] (##Usage)
+[Usage] (#Usage)
 
 
 ## Packages📦
