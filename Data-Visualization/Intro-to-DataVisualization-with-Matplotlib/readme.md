@@ -3,23 +3,23 @@
 # Overview 🚀
 Welcome to our exciting Data Visualization project! 🌟 In this journey, you'll dive into the captivating world of visualization through various types of plots, each telling a unique story:
 
-Line 📈
+Line plot 📈
 
-Area 
+Area plots
 
 Histograms
 
-Bar 📊
+Bar plot📊
 
-Pie 
+Pie chart
 
-Box 
+Box plots
 
-Scatter
+Scatter plots
 
-Bubble
+Bubble charts
 
-Waffle
+Waffle charts
 
 Word Clouds 
 
