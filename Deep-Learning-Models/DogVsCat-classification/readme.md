@@ -1,4 +1,4 @@
-### Dog vs Cat Classification Project 🐾📸
+# Dog vs Cat Classification Project 🐾📸
 
 
 # Overview 🌟
