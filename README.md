@@ -25,7 +25,7 @@ Explore transformer-based models for natural language processing (NLP), includin
 Feel free to explore, use, and build upon the models and projects in this repository. Refer to each model's README.md for specific usage instructions.
 
 # Contribution Guidelines
-Check out [contribution.md](contribution.md) for contribution guidlines.
+Check out [contribution.md](contribution.md) for contribution guidelines.
 
 # Feedback and Support
 For any questions, feedback, or issues regarding the repository, feel free to open an issue or reach out to the Coding Club's ML Head.
