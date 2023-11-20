@@ -28,7 +28,7 @@ Feel free to explore, use, and build upon the models and projects in this reposi
 Check out [contribution.md](contribution.md) for contribution guidelines.
 
 # Feedback and Support
-For any questions, feedback, or issues regarding the repository, feel free to open an issue or reach out to the Coding Club's ML Head.
+For any questions, feedback, or issues regarding the repository, feel free to open an issue or reach out to the Coding Club.
 
 Happy Coding!
 
