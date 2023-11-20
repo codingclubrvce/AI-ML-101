@@ -2,7 +2,7 @@
 Welcome to the RNN Addition Teaching Project! This project focuses on training a Recurrent Neural Network (RNN) model to perform addition, with the goal of demonstrating the capabilities of sequence-based learning.
 
 ## Overview 🌐
-The purpose of this project is to create an RNN model that can learn and perform addition on sequences of numbers. The model is trained on input string demonstrating addition( "23+56" ) and their corresponding sums, enabling it to generalize and accurately predict the sum of new pairs of numbers.
+The purpose of this project is to create an RNN model that can learn and perform addition on sequences of numbers. The model is trained on input string demonstrating addition( "23+56" ) and their corresponding sums, enabling it to generalize and accurately predict the sum of new pairs of numbers. The projects uses tensorflow, numpy, pandas.
 
 ## Project Structure 📁
 Data Generation: The project includes scripts to generate synthetic datasets for training and testing the model. These datasets consist of input sequences of number pairs and their corresponding sums.
