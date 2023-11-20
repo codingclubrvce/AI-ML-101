@@ -39,6 +39,12 @@ You can run the code locally. Data will be needed to download the VGG16 model an
 
 You can find more help [here](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 
+## Contribution Guidelines 🤝
+If you'd like to contribute to this project, please follow the guidelines outlined in [contribution.md](https://github.com/codingclubrvce/AI-ML-101/blob/a190d5d38896d8e883f5ef5a158521c1f3e394d4/contribution.md).
 
+## Feedback and Support 📬
+For any questions, feedback, or issues regarding the project, feel free to open an issue or reach out to the Coding Club, RVCE.
+
+Happy Learning and Coding! 🚀
 
 
